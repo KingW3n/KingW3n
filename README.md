@@ -20,8 +20,8 @@ Tecnologias que utilizo no meu dia
 Apaixonado por Programação, café e energético. Podemos mudar a vida das pessoas através dos nossos códigos. 
 <div style="text-align: center">
   <h4 align="center">
-    A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro.
+    E quando as coisas vão mal, você procura alguém para culpar, como se fosse uma sombra. O mundo não é um arco-íris e um amanhecer, na verdade é um lugar ruim e asqueroso. E não importa o tão durão você seja, apanhará e ficará de joelhos, se assim permitir. Nem você, nem ninguém baterá tão forte quanto a vida. Não importa o quão forte você golpeia, mas sim, quantos golpes você agüenta levar e continuar em frente, o muito que você possa aceitar e seguir adiante. Assim é a vida!.
   </h4> 
-  <h6 align="right"> Albert Einstein</h6>
+  <h6 align="right">Rocky Balboa</h6>
 </div>
 
