@@ -16,12 +16,13 @@ Tecnologias que utilizo no meu dia
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" alguin="center">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" alguin="center">
 </div>
-
+</br></br>
 Apaixonado por Programação, café e energético. Podemos mudar a vida das pessoas através dos nossos códigos. 
+</br></br>
 <div style="text-align: center">
-  <h4 align="center">
+  <h6 >
     E quando as coisas vão mal, você procura alguém para culpar, como se fosse uma sombra. O mundo não é um arco-íris e um amanhecer, na verdade é um lugar ruim e asqueroso. E não importa o tão durão você seja, apanhará e ficará de joelhos, se assim permitir. Nem você, nem ninguém baterá tão forte quanto a vida. Não importa o quão forte você golpeia, mas sim, quantos golpes você agüenta levar e continuar em frente, o muito que você possa aceitar e seguir adiante. Assim é a vida!.
-  </h4> 
   <h6 align="right">Rocky Balboa</h6>
+  </h6> 
 </div>
 
