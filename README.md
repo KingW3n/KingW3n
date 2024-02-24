@@ -22,6 +22,6 @@ Apaixonado por Programação, café e energético. Podemos mudar a vida das pess
   <h4 align="center">
     A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro.
   </h4> 
-  <h6 align="right">Albert Einstein</h6>
+  <h6 align="right"> Albert Einstein</h6>
 </div>
 
