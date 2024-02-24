@@ -15,7 +15,13 @@ Tecnologias que utilizo no meu dia
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" alguin="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" alguin="center">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" alguin="center">
-  
 </div>
 
+Apaixonado por Programação, café e energético. Podemos mudar a vida das pessoas através dos nossos códigos. 
+<div style="text-align: center">
+  <h4 align="center">
+    A imaginação é mais importante que o conhecimento, porque o conhecimento é limitado, ao passo que a imaginação abrange o mundo inteiro.
+  </h4> 
+  <h6 align="right">Albert Einstein</h6>
+</div>
 
