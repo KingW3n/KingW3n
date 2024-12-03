@@ -15,6 +15,7 @@ Tecnologias que utilizo no meu dia
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" alguin="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" alguin="center">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" alguin="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="PYTHON" alguin="center">
 </div>
 </br></br>
 Apaixonado por Programação, café e energético. Podemos mudar a vida das pessoas através dos nossos códigos. 
